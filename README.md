@@ -6,9 +6,7 @@ Proving that **Skills > Degree**. I am embarking on a 100-day intensive journey 
 ---
 
 ### 📈 Progress Tracker
-- [x] **Day 01:** Challenge Launched | Roadmap & SOC Fundamentals Analyzed.
-- [ ] **Day 02:** Pending...
-- [ ] **Day 03:** Pending...
+- [x] **Today** Challenge Launched | Roadmap & SOC Fundamentals Analyzed.
 
 ---
 
